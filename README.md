@@ -85,5 +85,5 @@ The system uses a weighted fusion score:
 Soil values are estimated based on regional averages for demonstration purposes in this Capstone. In a real-world deployment, this would connect to a Digital Soil Map (DSM) API.
 
 ---
-**Capstone Project 2025**
+**Capstone Project 2026**
 
